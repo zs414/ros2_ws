@@ -1,0 +1,6 @@
+CMake Error at CMakeLists.txt:25:
+  Parse error.  Expected a command name, got quoted argument with text
+  "msg/Person.msg".
+
+
+-- Configuring incomplete, errors occurred!

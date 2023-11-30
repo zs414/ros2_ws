@@ -1,0 +1,23 @@
+[0.265s] Invoking command in '/home/zhang/ros2_ws/build/person_msgs': CMAKE_PREFIX_PATH=/home/zhang/ros2_ws/install/mypkg:/opt/ros/foxy /usr/bin/cmake /home/zhang/ros2_ws/src/person_msgs -DCMAKE_INSTALL_PREFIX=/home/zhang/ros2_ws/install/person_msgs
+[0.272s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.286s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.706s] CMake Error at CMakeLists.txt:23 (find_package):
+[0.706s]   By not providing "Findrosidl_defailt_generators.cmake" in CMAKE_MODULE_PATH
+[0.706s]   this project has asked CMake to find a package configuration file provided
+[0.706s]   by "rosidl_defailt_generators", but CMake did not find one.
+[0.706s] 
+[0.706s]   Could not find a package configuration file provided by
+[0.706s]   "rosidl_defailt_generators" with any of the following names:
+[0.706s] 
+[0.706s]     rosidl_defailt_generatorsConfig.cmake
+[0.706s]     rosidl_defailt_generators-config.cmake
+[0.706s] 
+[0.706s]   Add the installation prefix of "rosidl_defailt_generators" to
+[0.706s]   CMAKE_PREFIX_PATH or set "rosidl_defailt_generators_DIR" to a directory
+[0.706s]   containing one of the above files.  If "rosidl_defailt_generators" provides
+[0.706s]   a separate development package or SDK, be sure it has been installed.
+[0.706s] 
+[0.706s] 
+[0.706s] -- Configuring incomplete, errors occurred!
+[0.707s] See also "/home/zhang/ros2_ws/build/person_msgs/CMakeFiles/CMakeOutput.log".
+[0.708s] Invoked command in '/home/zhang/ros2_ws/build/person_msgs' returned '1': CMAKE_PREFIX_PATH=/home/zhang/ros2_ws/install/mypkg:/opt/ros/foxy /usr/bin/cmake /home/zhang/ros2_ws/src/person_msgs -DCMAKE_INSTALL_PREFIX=/home/zhang/ros2_ws/install/person_msgs

@@ -1,0 +1,14 @@
+[0.270s] Invoking command in '/home/zhang/ros2_ws/build/person_msgs': CMAKE_PREFIX_PATH=/home/zhang/ros2_ws/install/mypkg:/opt/ros/foxy /usr/bin/cmake /home/zhang/ros2_ws/src/person_msgs -DCMAKE_INSTALL_PREFIX=/home/zhang/ros2_ws/install/person_msgs
+[0.278s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.292s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.387s] CMake Error at CMakeLists.txt:23 (find_package):
+[0.387s]   find_package called with invalid argument "PEQUIRED"
+[0.387s] 
+[0.387s] 
+[0.387s] CMake Error at CMakeLists.txt:24 (rosidl_generate_interfaces):
+[0.387s]   Unknown CMake command "rosidl_generate_interfaces".
+[0.388s] 
+[0.388s] 
+[0.388s] -- Configuring incomplete, errors occurred!
+[0.388s] See also "/home/zhang/ros2_ws/build/person_msgs/CMakeFiles/CMakeOutput.log".
+[0.389s] Invoked command in '/home/zhang/ros2_ws/build/person_msgs' returned '1': CMAKE_PREFIX_PATH=/home/zhang/ros2_ws/install/mypkg:/opt/ros/foxy /usr/bin/cmake /home/zhang/ros2_ws/src/person_msgs -DCMAKE_INSTALL_PREFIX=/home/zhang/ros2_ws/install/person_msgs

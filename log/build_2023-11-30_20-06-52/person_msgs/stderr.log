@@ -1,0 +1,17 @@
+CMake Error at CMakeLists.txt:23 (find_package):
+  By not providing "Findrosidl_defailt_generators.cmake" in CMAKE_MODULE_PATH
+  this project has asked CMake to find a package configuration file provided
+  by "rosidl_defailt_generators", but CMake did not find one.
+
+  Could not find a package configuration file provided by
+  "rosidl_defailt_generators" with any of the following names:
+
+    rosidl_defailt_generatorsConfig.cmake
+    rosidl_defailt_generators-config.cmake
+
+  Add the installation prefix of "rosidl_defailt_generators" to
+  CMAKE_PREFIX_PATH or set "rosidl_defailt_generators_DIR" to a directory
+  containing one of the above files.  If "rosidl_defailt_generators" provides
+  a separate development package or SDK, be sure it has been installed.
+
+

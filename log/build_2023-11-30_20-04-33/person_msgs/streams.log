@@ -1,0 +1,29 @@
+[0.268s] Invoking command in '/home/zhang/ros2_ws/build/person_msgs': CMAKE_PREFIX_PATH=/home/zhang/ros2_ws/install/mypkg:/opt/ros/foxy /usr/bin/cmake /home/zhang/ros2_ws/src/person_msgs -DCMAKE_INSTALL_PREFIX=/home/zhang/ros2_ws/install/person_msgs
+[0.424s] -- The C compiler identification is GNU 9.4.0
+[0.584s] -- The CXX compiler identification is GNU 9.4.0
+[0.632s] -- Check for working C compiler: /usr/bin/cc
+[0.717s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.719s] -- Detecting C compiler ABI info
+[0.794s] -- Detecting C compiler ABI info - done
+[0.801s] -- Detecting C compile features
+[0.802s] -- Detecting C compile features - done
+[0.804s] -- Check for working CXX compiler: /usr/bin/c++
+[0.884s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.885s] -- Detecting CXX compiler ABI info
+[0.963s] -- Detecting CXX compiler ABI info - done
+[0.970s] -- Detecting CXX compile features
+[0.971s] -- Detecting CXX compile features - done
+[0.975s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.995s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.995s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.124s] CMake Error at CMakeLists.txt:23 (find_package):
+[1.124s]   find_package called with invalid argument "PEQUIRED"
+[1.124s] 
+[1.124s] 
+[1.124s] CMake Error at CMakeLists.txt:24 (rosidl_generate_interfaces):
+[1.124s]   Unknown CMake command "rosidl_generate_interfaces".
+[1.124s] 
+[1.124s] 
+[1.125s] -- Configuring incomplete, errors occurred!
+[1.125s] See also "/home/zhang/ros2_ws/build/person_msgs/CMakeFiles/CMakeOutput.log".
+[1.127s] Invoked command in '/home/zhang/ros2_ws/build/person_msgs' returned '1': CMAKE_PREFIX_PATH=/home/zhang/ros2_ws/install/mypkg:/opt/ros/foxy /usr/bin/cmake /home/zhang/ros2_ws/src/person_msgs -DCMAKE_INSTALL_PREFIX=/home/zhang/ros2_ws/install/person_msgs

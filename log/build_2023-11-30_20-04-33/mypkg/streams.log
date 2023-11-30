@@ -1,0 +1,22 @@
+[0.586s] Invoking command in '/home/zhang/ros2_ws/src/mypkg': PYTHONPATH=/home/zhang/ros2_ws/build/mypkg/prefix_override:/home/zhang/ros2_ws/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/zhang/ros2_ws/build/mypkg/build install --record /home/zhang/ros2_ws/build/mypkg/install.log --install-scripts $base/lib/mypkg --single-version-externally-managed
+[0.705s] running egg_info
+[0.705s] writing ../../build/mypkg/mypkg.egg-info/PKG-INFO
+[0.705s] writing dependency_links to ../../build/mypkg/mypkg.egg-info/dependency_links.txt
+[0.706s] writing entry points to ../../build/mypkg/mypkg.egg-info/entry_points.txt
+[0.706s] writing requirements to ../../build/mypkg/mypkg.egg-info/requires.txt
+[0.706s] writing top-level names to ../../build/mypkg/mypkg.egg-info/top_level.txt
+[0.729s] reading manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.729s] writing manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.729s] running build
+[0.729s] running build_py
+[0.729s] running install
+[0.730s] running install_lib
+[0.732s] running install_data
+[0.732s] running install_egg_info
+[0.733s] removing '/home/zhang/ros2_ws/install/mypkg/lib/python3.8/site-packages/mypkg-0.0.0-py3.8.egg-info' (and everything under it)
+[0.733s] Copying ../../build/mypkg/mypkg.egg-info to /home/zhang/ros2_ws/install/mypkg/lib/python3.8/site-packages/mypkg-0.0.0-py3.8.egg-info
+[0.734s] running install_scripts
+[0.746s] Installing listener script to /home/zhang/ros2_ws/install/mypkg/lib/mypkg
+[0.746s] Installing talker script to /home/zhang/ros2_ws/install/mypkg/lib/mypkg
+[0.746s] writing list of installed files to '/home/zhang/ros2_ws/build/mypkg/install.log'
+[0.762s] Invoked command in '/home/zhang/ros2_ws/src/mypkg' returned '0': PYTHONPATH=/home/zhang/ros2_ws/build/mypkg/prefix_override:/home/zhang/ros2_ws/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/zhang/ros2_ws/build/mypkg/build install --record /home/zhang/ros2_ws/build/mypkg/install.log --install-scripts $base/lib/mypkg --single-version-externally-managed

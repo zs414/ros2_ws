@@ -1,0 +1,8 @@
+[0.262s] Invoking command in '/home/zhang/ros2_ws/build/person_msgs': CMAKE_PREFIX_PATH=/home/zhang/ros2_ws/install/mypkg:/opt/ros/foxy /usr/bin/cmake /home/zhang/ros2_ws/src/person_msgs -DCMAKE_INSTALL_PREFIX=/home/zhang/ros2_ws/install/person_msgs
+[0.266s] CMake Error at CMakeLists.txt:25:
+[0.266s]   Parse error.  Expected a command name, got quoted argument with text
+[0.266s]   "msg/Person.msg".
+[0.266s] 
+[0.266s] 
+[0.267s] -- Configuring incomplete, errors occurred!
+[0.269s] Invoked command in '/home/zhang/ros2_ws/build/person_msgs' returned '1': CMAKE_PREFIX_PATH=/home/zhang/ros2_ws/install/mypkg:/opt/ros/foxy /usr/bin/cmake /home/zhang/ros2_ws/src/person_msgs -DCMAKE_INSTALL_PREFIX=/home/zhang/ros2_ws/install/person_msgs
